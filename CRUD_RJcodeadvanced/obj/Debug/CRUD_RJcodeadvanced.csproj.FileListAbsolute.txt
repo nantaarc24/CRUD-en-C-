@@ -1,0 +1,9 @@
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\bin\Debug\CRUD_RJcodeadvanced.exe.config
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\bin\Debug\CRUD_RJcodeadvanced.exe
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\bin\Debug\CRUD_RJcodeadvanced.pdb
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\obj\Debug\CRUD_RJcodeadvanced.csproj.AssemblyReference.cache
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\obj\Debug\CRUD_RJcodeadvanced.Properties.Resources.resources
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\obj\Debug\CRUD_RJcodeadvanced.csproj.GenerateResource.cache
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\obj\Debug\CRUD_RJcodeadvanced.csproj.CoreCompileInputs.cache
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\obj\Debug\CRUD_RJcodeadvanced.exe
+E:\C#\CRUD_RJcodeadvanced\CRUD_RJcodeadvanced\obj\Debug\CRUD_RJcodeadvanced.pdb

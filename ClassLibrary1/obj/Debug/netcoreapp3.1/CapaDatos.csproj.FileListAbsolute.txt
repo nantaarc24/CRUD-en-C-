@@ -1,0 +1,9 @@
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\bin\Debug\netcoreapp3.1\CapaDatos.dll
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\obj\Debug\netcoreapp3.1\CapaDatos.dll
+E:\C#\CRUD_RJcodeadvanced\ClassLibrary1\obj\Debug\netcoreapp3.1\CapaDatos.pdb
